@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [LaunchBar Actions web site, documentation, screenshots](http://prenagha.github.io/launchbar/)
 
 ###NOTE on `.applescript` files
@@ -12,3 +13,7 @@ You can compile these text `.applescript` files into `.scpt` files using command
 
 [My build script to sign and package LaunchBar actions](https://gist.github.com/prenagha/2d72121ad7478559e8c3)
 
+||||||| (empty tree)
+=======
+This is a combination of launchbar actions I collected and maintain for my own use.
+>>>>>>> 220a0d5... initial readme
